@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\bin\Debug\net6.0\Seminar005.exe
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\bin\Debug\net6.0\Seminar005.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\bin\Debug\net6.0\Seminar005.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\bin\Debug\net6.0\Seminar005.dll
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\bin\Debug\net6.0\Seminar005.pdb
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\obj\Debug\net6.0\Seminar005.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\obj\Debug\net6.0\Seminar005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\obj\Debug\net6.0\Seminar005.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\obj\Debug\net6.0\Seminar005.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\obj\Debug\net6.0\Seminar005.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\obj\Debug\net6.0\Seminar005.dll
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\obj\Debug\net6.0\refint\Seminar005.dll
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\obj\Debug\net6.0\Seminar005.pdb
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\obj\Debug\net6.0\Seminar005.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\Geegbrains\Seminars_C#_Home_Work\Seminar005\obj\Debug\net6.0\ref\Seminar005.dll
