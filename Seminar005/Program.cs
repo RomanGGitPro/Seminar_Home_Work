@@ -177,49 +177,30 @@ Console.WriteLine($"Сумма элементов, стоящих на нечё�
 Задача 38: Задайте массив вещественных чисел. 
 Найдите разницу между максимальным и минимальным элементов массива.
 
-*/
-int [] FillArray (int size, int min, int max)
-{
-    int [] numbers = new int[size];
-    
-    for (int i = 0; i < numbers.Length; i++)
-       numbers[i] = new Random().Next(min, max +1);
-    return numbers;
-    
-            
-}
-void ShowArray (int[] array)
-{
-    for (int i = 0; i < array.Length; i++)
-         Console.Write (array[i] + " ");
-    Console.WriteLine();     
-}
 
-double ArrayRealNumbers (double [] numbers)
-{
-    double maxNumber = numbers[0];
-    double minNumber = numbers[0];
+double[] arrayRealNumbers = new double[10];
+  for (int i = 0; i < arrayRealNumbers.Length; i++ )
+  {
+    arrayRealNumbers[i] = new Random().Next(1, 10);
+    Console.Write(arrayRealNumbers[i] + " ");
+  }
 
-   for (int i = 1; i < numbers.Length; i++)
-   {
-     if (maxNumber < numbers[i])
-        {
-            maxNumber = numbers[i];
-        }
-           if (minNumber > numbers[i])
-        {
-             minNumber = numbers[i];
-        }
-        
-    }   
-         
-    double decision = maxNumber - minNumber;   
-    
-    return decision;
-}
+double maxNumber = arrayRealNumbers[0];
+double minNumber = arrayRealNumbers[0];
 
-int [] numbers = FillArray (5, 0, 10);
-ShowArray(numbers);
-double decision = ArrayRealNumbers (numbers);
+  for (int i = 1; i < arrayRealNumbers.Length; i++)
+  {
+    if (maxNumber < arrayRealNumbers[i])
+    {
+      maxNumber = arrayRealNumbers[i];
+    }
+        if (minNumber > arrayRealNumbers[i])
+    {
+      minNumber = arrayRealNumbers[i];
+    }
+  }
 
-Console.WriteLine($"Разница между максимальным ({maxNumber}) и минимальным({minNumber}) элементами -> {decision}");
+  double decision = maxNumber - minNumber;
+
+  Console.WriteLine($"\nразница между между максимальным ({maxNumber}) и минимальным({minNumber}) элементами: {decision}");
+  */
