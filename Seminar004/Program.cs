@@ -150,18 +150,25 @@ Console.WriteLine("Сумма цифр в числе: " + sumNumber);
 
 
 Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
-*/
-int [] MakeArr (int size)
+
+
+int [] numbers = new int[8];
+void FillArray (int[] array, int min, int max)
 {
- int [] array = new int [size];
- return array;
+    for (int i = 0; i < array.Length; i++)
+       numbers[i] = new Random().Next(min, max +1);
 
-   for (int i = 0; i < array.Length; i++)
-   {
-    Console.Write($"{array[i]} ");
-   }
-   
+      
 }
+//вывод массива
+void ShowArray (int[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+         Console.Write (array[i] + " ");
+    Console.WriteLine();   
+}
+FillArray (numbers, 10, 100);
+ShowArray(numbers);
+Console.WriteLine();
 
-Console.WriteLine ("Ведите массив ");
-MakeArr (array)
+*/
